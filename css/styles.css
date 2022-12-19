@@ -372,7 +372,7 @@ h1#logo {
 	display: block
 }
 h1#logo a {
-	background: url(../images/bg-logo2.png) center no-repeat;
+	background: url(../images/Logo-01.png) center no-repeat;
 	background-size: 121px 70px;
 	width: 121px; /*try to keep it below 70px*/
 	height: 70px;
